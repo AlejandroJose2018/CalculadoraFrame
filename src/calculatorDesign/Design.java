@@ -49,6 +49,7 @@ public class Design extends JFrame implements ActionListener {
 		setBackground(new Color(47, 79, 79));
 		getContentPane().setBackground(new Color(47, 79, 79));
 		//Propiedades del Formulario
+		
 		base.setLayout(null);//Acomodar manulmente los elemnetos
 		setSize(350,450);
 		setTitle("CALCULATOR STANDAR");
